@@ -5,5 +5,4 @@ export class Product {
     public description: string,
     public price: number,
   ) {}
-  //In eslint every line have some meaning and make it more readable
 }
